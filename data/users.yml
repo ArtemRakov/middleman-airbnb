@@ -1,4 +1,21 @@
-- name: 'Sébastien Saunier'
-  github_nickname: 'ssaunier'
-- name: 'Boris Paillard'
-  github_nickname: 'Papillard'
+adrian:
+  name: 'Adrian Mustea'
+  github_nickname: 'adrian'
+  city: 'paris'
+  rating: 5
+  avatar: 'https://avatars1.githubusercontent.com/u/22411330?v=3'
+  description: 'Charming room in Montmartre'
+artem:
+  name: 'Artem Rakov'
+  github_nickname: 'artemrakov'
+  city: 'tokyo'
+  rating: 4
+  avatar: 'https://avatars0.githubusercontent.com/u/26395360?v=4'
+  description: 'Small flat in Tokyo'
+james:
+  name: 'James Aung'
+  github_nickname: 'therealaung'
+  city: 'london'
+  rating: 5
+  avatar: 'https://avatars0.githubusercontent.com/u/28229256?v=4'
+  description: 'Nice flat in Piccadilly'
